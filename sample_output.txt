@@ -1,0 +1,51 @@
+
+--------------------big_text--------------------
+Auth ID: MAYTFINJIYOTLMNTHKZJ
+Auth Token: NjQ2ZjIzZmFiN2MyZjFlMGZiYjJkMzM3MjM1Mzhl
+Country ISO: US
+Numbers Count: 2
+Message Text: this is a big test message this is a big test message
+--------------------------------------------------------
+Account details
+--Message outbound rate for the account: 0.00350
+Buying 2 numbers...
+Bought Numbers:
+  12063370843
+  12063370842
+Credit balance before sending message: 1.7254
+Sending message from 12063370843 to 12063370842 ...
+sent
+Message sent status True
+Message UUID: c1c2baf1-ef47-48e8-94c1-a751b059bc12
+Waiting for maximum of 60 seconds for credit to get detected
+Latest Credit balance: 1.7219
+Totel cost of the message: 0.0035
+big_text Test: Passed
+
+--------------------simple_test--------------------
+Auth ID: MAYTFINJIYOTLMNTHKZJ
+Auth Token: NjQ2ZjIzZmFiN2MyZjFlMGZiYjJkMzM3MjM1Mzhl
+Country ISO: US
+Numbers Count: 2
+Message Text: test message
+--------------------------------------------------------
+Account details
+--Message outbound rate for the account: 0.00350
+Buying 2 numbers...
+Bought Numbers:
+  12063370843
+  12063370842
+Credit balance before sending message: 1.7219
+Sending message from 12063370843 to 12063370842 ...
+sent
+Message sent status True
+Message UUID: f8ea0358-b154-423b-b112-99c14cb3e9cd
+Waiting for maximum of 60 seconds for credit to get detected
+Latest Credit balance: 1.7184
+Totel cost of the message: 0.0035
+simple_test Test: Passed
+
+Ran 2 tests in 77.547s
+
+OK
+
