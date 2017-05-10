@@ -14,6 +14,7 @@ How to run:
 >python test_message.py
 
 Requires:
+- requests python package need to be pre-installed (pip install requests)
 - resource.py either in the same directory or in PYTHONPATH
 resource.py contains three classes
 ResourceBase: the class for handling all the REST calls.
